@@ -8,11 +8,11 @@ export const extracurricularData: Extracurricular[] = [
   {
     title: "Volunteering",
     description: "Volunteered in education drives for underprivileged children collaborating with an NGO.",
-    image: "/Public/volunteering.jpg"
+    image: "/public/volunteering.jpg"
   },
   {
     title: "",
     description: "",
-    image: "/Public/volunteer.jpg"
+    image: "/public/volunteer.jpg"
   }
 ];
